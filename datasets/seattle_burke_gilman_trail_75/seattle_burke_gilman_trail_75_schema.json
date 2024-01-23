@@ -1,0 +1,54 @@
+{
+  "title": "Seattle Burke Gilman Trail - 75 Percent",
+  "description": "This is a variation of the Seattle Burke Gilman Traildataset. In this variation, 75% of the latest epochs from the original timeseries are retained. HOURLY",
+  "modelCategory": "forecasting",
+  "schemaVersion": 1.0,
+  "inputDataFormat": "CSV",
+  "encoding": "utf-8",
+  "frequency": "HOURLY",
+  "forecastLength": 120,
+  "idField": {
+    "name": "Trail",
+    "description": "Unique identifier for the trail"
+  },
+  "timeField": {
+    "name": "Datetime",
+    "description": "Datetime of observation",
+    "dataType": "DATETIME",
+    "example": "2017-02-23 00:00:00"
+  },
+  "forecastTarget": {
+    "name": "Count",
+    "description": "Count of bike or pedestrian on the trail",
+    "dataType": "NUMERIC",
+    "example": 0.0
+  },
+  "pastCovariates": [],
+  "futureCovariates": [],
+  "staticCovariates": [
+    {
+      "name": "Is_Bike_Trail",
+      "description": "Whether series represents a bike trail",
+      "dataType": "NUMERIC",
+      "example": 1
+    },
+    {
+      "name": "Is_Ped_Trail",
+      "description": "Whether series represents a pedestrian trail",
+      "dataType": "NUMERIC",
+      "example": 0
+    },
+    {
+      "name": "Is_North_Trail",
+      "description": "Whether series represents a bike trail",
+      "dataType": "NUMERIC",
+      "example": 1
+    },
+    {
+      "name": "Is_South_Trail",
+      "description": "Whether series represents a pedestrian trail",
+      "dataType": "NUMERIC",
+      "example": 0
+    }
+  ]
+}

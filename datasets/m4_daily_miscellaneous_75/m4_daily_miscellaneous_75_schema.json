@@ -1,0 +1,29 @@
+{
+  "title": "M4 Forecasting Competition Sampled Daily Series - 75 Percent",
+  "description": "This is a variation of the M4 Forecasting Competition Sampled Daily Seriesdataset. In this variation, 75% of the latest epochs from the original timeseries are retained. DAILY",
+  "modelCategory": "forecasting",
+  "schemaVersion": 1.0,
+  "inputDataFormat": "CSV",
+  "encoding": "utf-8",
+  "frequency": "DAILY",
+  "forecastLength": 28,
+  "idField": {
+    "name": "series",
+    "description": "Unique idenfier for the series."
+  },
+  "timeField": {
+    "name": "day",
+    "description": "Day number of measurement.",
+    "dataType": "INT",
+    "example": 320
+  },
+  "forecastTarget": {
+    "name": "value",
+    "description": "Target variable for forecasting.",
+    "dataType": "NUMERIC",
+    "example": 4043.1
+  },
+  "pastCovariates": [],
+  "futureCovariates": [],
+  "staticCovariates": []
+}

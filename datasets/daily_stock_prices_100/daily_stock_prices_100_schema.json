@@ -1,0 +1,60 @@
+{
+  "title": "Daily Stock Prices  - 100 Percent",
+  "description": "Daily Stock Prices  - 100 Percent",
+  "modelCategory": "forecasting",
+  "schemaVersion": 1.0,
+  "inputDataFormat": "CSV",
+  "encoding": "utf-8",
+  "frequency": "DAILY",
+  "forecastLength": 28,
+  "idField": {
+    "name": "Masked_Ticker",
+    "description": "Unique identifier for the stock. This is a masked ticker that replaced the original stock ticker."
+  },
+  "timeField": {
+    "name": "Day_Num",
+    "description": "Day number of the observation.",
+    "dataType": "INT",
+    "example": 1
+  },
+  "forecastTarget": {
+    "name": "Adj Close",
+    "description": "Adjusted closing price of the stock; this is the target variable for forecasting.",
+    "dataType": "NUMERIC",
+    "example": 3.245
+  },
+  "pastCovariates": [
+    {
+      "name": "Close",
+      "description": "Recorded closing price of the stock on the day.",
+      "dataType": "NUMERIC",
+      "example": 49.5
+    },
+    {
+      "name": "High",
+      "description": "Recorded high (maximum) price of the during the day.",
+      "dataType": "NUMERIC",
+      "example": 50.75
+    },
+    {
+      "name": "Low",
+      "description": "Recorded low (minimum) price of the during the day.",
+      "dataType": "NUMERIC",
+      "example": 47.78
+    },
+    {
+      "name": "Open",
+      "description": "Recorded opening price of the stock on the day.",
+      "dataType": "NUMERIC",
+      "example": 48.45
+    },
+    {
+      "name": "Volume",
+      "description": "Recorded volume of stocks traded during the day.",
+      "dataType": "NUMERIC",
+      "example": 11210300
+    }
+  ],
+  "futureCovariates": [],
+  "staticCovariates": []
+}

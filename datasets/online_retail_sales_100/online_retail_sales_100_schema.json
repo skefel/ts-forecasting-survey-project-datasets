@@ -1,0 +1,36 @@
+{
+  "title": "Online Retail Sales - 100 Percent",
+  "description": "Online Retail Sales - 100 Percent",
+  "modelCategory": "forecasting",
+  "schemaVersion": 1.0,
+  "inputDataFormat": "CSV",
+  "encoding": "utf-8",
+  "frequency": "DAILY",
+  "forecastLength": 28,
+  "idField": {
+    "name": "StockCode",
+    "description": "Unique identifier per item sold"
+  },
+  "timeField": {
+    "name": "InvoiceDate",
+    "description": "Date on which the sale occurred",
+    "dataType": "DATE",
+    "example": "2010-12-01"
+  },
+  "forecastTarget": {
+    "name": "Quantity",
+    "description": "Total number of units sold",
+    "dataType": "NUMERIC",
+    "example": 29.0
+  },
+  "pastCovariates": [
+    {
+      "name": "Sales",
+      "description": "Total revenue (units sold * unit price)",
+      "dataType": "NUMERIC",
+      "example": 213.03
+    }
+  ],
+  "futureCovariates": [],
+  "staticCovariates": []
+}

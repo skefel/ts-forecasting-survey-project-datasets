@@ -1,0 +1,80 @@
+{
+  "title": "Bank Branch Transactions - 50 Percent",
+  "description": "This is a variation of the Bank Branch Transactionsdataset. In this variation, 50% of the latest epochs from the original timeseries are retained. The Bank Branch Network Simulation dataset is a synthetic dataset that emulates the transaction activities of a fictitious bank network consisting of 32 branches over a period of 169 weeks. It captures the weekly transaction data for 6 different transaction types at each branch while simulating correlations between transaction types and branches. The dataset also models the impact of bank holidays. It is versatile, suitable for multi-variate forecasting, or individual series forecasting, with the option to use other transaction series as exogenous factors for forecasting tasks.",
+  "modelCategory": "forecasting",
+  "schemaVersion": 1.0,
+  "inputDataFormat": "CSV",
+  "encoding": "utf-8",
+  "frequency": "WEEKLY",
+  "forecastLength": 26,
+  "idField": {
+    "name": "branch_id",
+    "description": "Unique identifier per branch."
+  },
+  "timeField": {
+    "name": "week_start_date",
+    "description": "Date representing week of the sample.",
+    "dataType": "DATE",
+    "example": "2014-11-10"
+  },
+  "forecastTarget": {
+    "name": "Act_5_0__40944",
+    "description": "This is target variable. Represents volumes for activity `Act_5_0__40944`",
+    "dataType": "NUMERIC",
+    "example": 216.024
+  },
+  "pastCovariates": [
+    {
+      "name": "Act_5_0__45308",
+      "description": "This is feature variable. Represents volumes for activity `Act_5_0__45308`",
+      "dataType": "NUMERIC",
+      "example": 326.432
+    },
+    {
+      "name": "Act_5_0__82324",
+      "description": "This is feature variable. Represents volumes for activity `Act_5_0__82324`",
+      "dataType": "NUMERIC",
+      "example": 319.716
+    },
+    {
+      "name": "Act_5_0__89097",
+      "description": "This is feature variable. Represents volumes for activity `Act_5_0__89097`",
+      "dataType": "NUMERIC",
+      "example": 154.344
+    },
+    {
+      "name": "Act_5_0__94157",
+      "description": "This is feature variable. Represents volumes for activity `Act_5_0__94157`",
+      "dataType": "NUMERIC",
+      "example": 274.47
+    },
+    {
+      "name": "Act_5_0__96723",
+      "description": "This is feature variable. Represents volumes for activity `Act_5_0__96723`",
+      "dataType": "NUMERIC",
+      "example": 259.317
+    }
+  ],
+  "futureCovariates": [
+    {
+      "name": "num_holidays",
+      "description": "Number of bank holidays in this week",
+      "dataType": "NUMERIC",
+      "example": 1
+    }
+  ],
+  "staticCovariates": [
+    {
+      "name": "is_region_1",
+      "description": "Whether bank branch location is in region 1",
+      "dataType": "NUMERIC",
+      "example": 1
+    },
+    {
+      "name": "is_region_2",
+      "description": "Whether bank branch location is in region 2",
+      "dataType": "NUMERIC",
+      "example": 0
+    }
+  ]
+}

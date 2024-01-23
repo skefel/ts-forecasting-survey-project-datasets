@@ -1,0 +1,139 @@
+{
+  "title": "Daily Weather in 26 World Cities - 75 Percent",
+  "description": "This is a variation of the Daily Weather in 26 World Citiesdataset. In this variation, 75% of the latest epochs from the original timeseries are retained. DAILY",
+  "modelCategory": "forecasting",
+  "schemaVersion": 1.0,
+  "inputDataFormat": "CSV",
+  "encoding": "utf-8",
+  "frequency": "DAILY",
+  "forecastLength": 28,
+  "idField": {
+    "name": "location",
+    "description": "City of the series."
+  },
+  "timeField": {
+    "name": "date",
+    "description": "Date of the weather observation.",
+    "dataType": "DATE",
+    "example": "2020-10-01"
+  },
+  "forecastTarget": {
+    "name": "maxtemp",
+    "description": "Target variable; Maximum temperature for the day in Celcius.",
+    "dataType": "NUMERIC",
+    "example": 33
+  },
+  "pastCovariates": [
+    {
+      "name": "mintemp",
+      "description": "Minimum temperature for the day in Celcius",
+      "dataType": "NUMERIC",
+      "example": 27
+    },
+    {
+      "name": "avgtemp",
+      "description": "Average temperature for the day in Celcius",
+      "dataType": "NUMERIC",
+      "example": 29
+    },
+    {
+      "name": "sunhour",
+      "description": "Duration between sunrise and sunset in hours",
+      "dataType": "NUMERIC",
+      "example": 6.0
+    },
+    {
+      "name": "uv_index",
+      "description": "UV Index",
+      "dataType": "NUMERIC",
+      "example": 6
+    },
+    {
+      "name": "wind_speed",
+      "description": "Maximum wind speed in kilometers per hour",
+      "dataType": "NUMERIC",
+      "example": 12
+    },
+    {
+      "name": "wind_degree",
+      "description": "Wind direction in degrees",
+      "dataType": "NUMERIC",
+      "example": 248
+    },
+    {
+      "name": "precip",
+      "description": "Precipitation amount in millimeters",
+      "dataType": "NUMERIC",
+      "example": 2.5
+    },
+    {
+      "name": "humidity",
+      "description": "Humidity as percentage",
+      "dataType": "NUMERIC",
+      "example": 61
+    },
+    {
+      "name": "visibility",
+      "description": "Average visibility in km",
+      "dataType": "NUMERIC",
+      "example": 10
+    },
+    {
+      "name": "pressure",
+      "description": "Pressure in millibars",
+      "dataType": "NUMERIC",
+      "example": 1005
+    },
+    {
+      "name": "cloudcover",
+      "description": "Cloud cover as percentage",
+      "dataType": "NUMERIC",
+      "example": 65
+    },
+    {
+      "name": "heatindex",
+      "description": "Heat index in celcius",
+      "dataType": "NUMERIC",
+      "example": 33
+    },
+    {
+      "name": "dewpoint",
+      "description": "Dew point in celcius",
+      "dataType": "NUMERIC",
+      "example": 23
+    },
+    {
+      "name": "windchill",
+      "description": "Windchill temperature in celcius",
+      "dataType": "NUMERIC",
+      "example": 29
+    },
+    {
+      "name": "windgust",
+      "description": "Wind gust in kmph",
+      "dataType": "NUMERIC",
+      "example": 19
+    },
+    {
+      "name": "feelslike",
+      "description": "Feels like in Celcius",
+      "dataType": "NUMERIC",
+      "example": 33
+    }
+  ],
+  "futureCovariates": [],
+  "staticCovariates": [
+    {
+      "name": "in_northern_hemisphere",
+      "description": "Whether the city is in northern hemisphere. This is a static covariate.",
+      "dataType": "NUMERIC",
+      "example": 1
+    },
+    {
+      "name": "in_southern_hemisphere",
+      "description": "Whether the city is in southern hemisphere. This is a static covariate.",
+      "dataType": "NUMERIC",
+      "example": 0
+    }
+  ]
+}

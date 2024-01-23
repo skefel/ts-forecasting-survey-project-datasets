@@ -1,0 +1,729 @@
+location,date,in_northern_hemisphere,in_southern_hemisphere
+"Bangkok, Thailand",2022-12-04,1,0
+"Bangkok, Thailand",2022-12-05,1,0
+"Bangkok, Thailand",2022-12-06,1,0
+"Bangkok, Thailand",2022-12-07,1,0
+"Bangkok, Thailand",2022-12-08,1,0
+"Bangkok, Thailand",2022-12-09,1,0
+"Bangkok, Thailand",2022-12-10,1,0
+"Bangkok, Thailand",2022-12-11,1,0
+"Bangkok, Thailand",2022-12-12,1,0
+"Bangkok, Thailand",2022-12-13,1,0
+"Bangkok, Thailand",2022-12-14,1,0
+"Bangkok, Thailand",2022-12-15,1,0
+"Bangkok, Thailand",2022-12-16,1,0
+"Bangkok, Thailand",2022-12-17,1,0
+"Bangkok, Thailand",2022-12-18,1,0
+"Bangkok, Thailand",2022-12-19,1,0
+"Bangkok, Thailand",2022-12-20,1,0
+"Bangkok, Thailand",2022-12-21,1,0
+"Bangkok, Thailand",2022-12-22,1,0
+"Bangkok, Thailand",2022-12-23,1,0
+"Bangkok, Thailand",2022-12-24,1,0
+"Bangkok, Thailand",2022-12-25,1,0
+"Bangkok, Thailand",2022-12-26,1,0
+"Bangkok, Thailand",2022-12-27,1,0
+"Bangkok, Thailand",2022-12-28,1,0
+"Bangkok, Thailand",2022-12-29,1,0
+"Bangkok, Thailand",2022-12-30,1,0
+"Bangkok, Thailand",2022-12-31,1,0
+"Barcelona, Spain",2022-12-04,1,0
+"Barcelona, Spain",2022-12-05,1,0
+"Barcelona, Spain",2022-12-06,1,0
+"Barcelona, Spain",2022-12-07,1,0
+"Barcelona, Spain",2022-12-08,1,0
+"Barcelona, Spain",2022-12-09,1,0
+"Barcelona, Spain",2022-12-10,1,0
+"Barcelona, Spain",2022-12-11,1,0
+"Barcelona, Spain",2022-12-12,1,0
+"Barcelona, Spain",2022-12-13,1,0
+"Barcelona, Spain",2022-12-14,1,0
+"Barcelona, Spain",2022-12-15,1,0
+"Barcelona, Spain",2022-12-16,1,0
+"Barcelona, Spain",2022-12-17,1,0
+"Barcelona, Spain",2022-12-18,1,0
+"Barcelona, Spain",2022-12-19,1,0
+"Barcelona, Spain",2022-12-20,1,0
+"Barcelona, Spain",2022-12-21,1,0
+"Barcelona, Spain",2022-12-22,1,0
+"Barcelona, Spain",2022-12-23,1,0
+"Barcelona, Spain",2022-12-24,1,0
+"Barcelona, Spain",2022-12-25,1,0
+"Barcelona, Spain",2022-12-26,1,0
+"Barcelona, Spain",2022-12-27,1,0
+"Barcelona, Spain",2022-12-28,1,0
+"Barcelona, Spain",2022-12-29,1,0
+"Barcelona, Spain",2022-12-30,1,0
+"Barcelona, Spain",2022-12-31,1,0
+"Beijing, China",2022-12-04,1,0
+"Beijing, China",2022-12-05,1,0
+"Beijing, China",2022-12-06,1,0
+"Beijing, China",2022-12-07,1,0
+"Beijing, China",2022-12-08,1,0
+"Beijing, China",2022-12-09,1,0
+"Beijing, China",2022-12-10,1,0
+"Beijing, China",2022-12-11,1,0
+"Beijing, China",2022-12-12,1,0
+"Beijing, China",2022-12-13,1,0
+"Beijing, China",2022-12-14,1,0
+"Beijing, China",2022-12-15,1,0
+"Beijing, China",2022-12-16,1,0
+"Beijing, China",2022-12-17,1,0
+"Beijing, China",2022-12-18,1,0
+"Beijing, China",2022-12-19,1,0
+"Beijing, China",2022-12-20,1,0
+"Beijing, China",2022-12-21,1,0
+"Beijing, China",2022-12-22,1,0
+"Beijing, China",2022-12-23,1,0
+"Beijing, China",2022-12-24,1,0
+"Beijing, China",2022-12-25,1,0
+"Beijing, China",2022-12-26,1,0
+"Beijing, China",2022-12-27,1,0
+"Beijing, China",2022-12-28,1,0
+"Beijing, China",2022-12-29,1,0
+"Beijing, China",2022-12-30,1,0
+"Beijing, China",2022-12-31,1,0
+"Berlin, Germany",2022-12-04,1,0
+"Berlin, Germany",2022-12-05,1,0
+"Berlin, Germany",2022-12-06,1,0
+"Berlin, Germany",2022-12-07,1,0
+"Berlin, Germany",2022-12-08,1,0
+"Berlin, Germany",2022-12-09,1,0
+"Berlin, Germany",2022-12-10,1,0
+"Berlin, Germany",2022-12-11,1,0
+"Berlin, Germany",2022-12-12,1,0
+"Berlin, Germany",2022-12-13,1,0
+"Berlin, Germany",2022-12-14,1,0
+"Berlin, Germany",2022-12-15,1,0
+"Berlin, Germany",2022-12-16,1,0
+"Berlin, Germany",2022-12-17,1,0
+"Berlin, Germany",2022-12-18,1,0
+"Berlin, Germany",2022-12-19,1,0
+"Berlin, Germany",2022-12-20,1,0
+"Berlin, Germany",2022-12-21,1,0
+"Berlin, Germany",2022-12-22,1,0
+"Berlin, Germany",2022-12-23,1,0
+"Berlin, Germany",2022-12-24,1,0
+"Berlin, Germany",2022-12-25,1,0
+"Berlin, Germany",2022-12-26,1,0
+"Berlin, Germany",2022-12-27,1,0
+"Berlin, Germany",2022-12-28,1,0
+"Berlin, Germany",2022-12-29,1,0
+"Berlin, Germany",2022-12-30,1,0
+"Berlin, Germany",2022-12-31,1,0
+"Bogota, Colombia",2022-12-04,1,0
+"Bogota, Colombia",2022-12-05,1,0
+"Bogota, Colombia",2022-12-06,1,0
+"Bogota, Colombia",2022-12-07,1,0
+"Bogota, Colombia",2022-12-08,1,0
+"Bogota, Colombia",2022-12-09,1,0
+"Bogota, Colombia",2022-12-10,1,0
+"Bogota, Colombia",2022-12-11,1,0
+"Bogota, Colombia",2022-12-12,1,0
+"Bogota, Colombia",2022-12-13,1,0
+"Bogota, Colombia",2022-12-14,1,0
+"Bogota, Colombia",2022-12-15,1,0
+"Bogota, Colombia",2022-12-16,1,0
+"Bogota, Colombia",2022-12-17,1,0
+"Bogota, Colombia",2022-12-18,1,0
+"Bogota, Colombia",2022-12-19,1,0
+"Bogota, Colombia",2022-12-20,1,0
+"Bogota, Colombia",2022-12-21,1,0
+"Bogota, Colombia",2022-12-22,1,0
+"Bogota, Colombia",2022-12-23,1,0
+"Bogota, Colombia",2022-12-24,1,0
+"Bogota, Colombia",2022-12-25,1,0
+"Bogota, Colombia",2022-12-26,1,0
+"Bogota, Colombia",2022-12-27,1,0
+"Bogota, Colombia",2022-12-28,1,0
+"Bogota, Colombia",2022-12-29,1,0
+"Bogota, Colombia",2022-12-30,1,0
+"Bogota, Colombia",2022-12-31,1,0
+"Buenos Aires, Argentina",2022-12-04,0,1
+"Buenos Aires, Argentina",2022-12-05,0,1
+"Buenos Aires, Argentina",2022-12-06,0,1
+"Buenos Aires, Argentina",2022-12-07,0,1
+"Buenos Aires, Argentina",2022-12-08,0,1
+"Buenos Aires, Argentina",2022-12-09,0,1
+"Buenos Aires, Argentina",2022-12-10,0,1
+"Buenos Aires, Argentina",2022-12-11,0,1
+"Buenos Aires, Argentina",2022-12-12,0,1
+"Buenos Aires, Argentina",2022-12-13,0,1
+"Buenos Aires, Argentina",2022-12-14,0,1
+"Buenos Aires, Argentina",2022-12-15,0,1
+"Buenos Aires, Argentina",2022-12-16,0,1
+"Buenos Aires, Argentina",2022-12-17,0,1
+"Buenos Aires, Argentina",2022-12-18,0,1
+"Buenos Aires, Argentina",2022-12-19,0,1
+"Buenos Aires, Argentina",2022-12-20,0,1
+"Buenos Aires, Argentina",2022-12-21,0,1
+"Buenos Aires, Argentina",2022-12-22,0,1
+"Buenos Aires, Argentina",2022-12-23,0,1
+"Buenos Aires, Argentina",2022-12-24,0,1
+"Buenos Aires, Argentina",2022-12-25,0,1
+"Buenos Aires, Argentina",2022-12-26,0,1
+"Buenos Aires, Argentina",2022-12-27,0,1
+"Buenos Aires, Argentina",2022-12-28,0,1
+"Buenos Aires, Argentina",2022-12-29,0,1
+"Buenos Aires, Argentina",2022-12-30,0,1
+"Buenos Aires, Argentina",2022-12-31,0,1
+"Cairo, Egypt",2022-12-04,1,0
+"Cairo, Egypt",2022-12-05,1,0
+"Cairo, Egypt",2022-12-06,1,0
+"Cairo, Egypt",2022-12-07,1,0
+"Cairo, Egypt",2022-12-08,1,0
+"Cairo, Egypt",2022-12-09,1,0
+"Cairo, Egypt",2022-12-10,1,0
+"Cairo, Egypt",2022-12-11,1,0
+"Cairo, Egypt",2022-12-12,1,0
+"Cairo, Egypt",2022-12-13,1,0
+"Cairo, Egypt",2022-12-14,1,0
+"Cairo, Egypt",2022-12-15,1,0
+"Cairo, Egypt",2022-12-16,1,0
+"Cairo, Egypt",2022-12-17,1,0
+"Cairo, Egypt",2022-12-18,1,0
+"Cairo, Egypt",2022-12-19,1,0
+"Cairo, Egypt",2022-12-20,1,0
+"Cairo, Egypt",2022-12-21,1,0
+"Cairo, Egypt",2022-12-22,1,0
+"Cairo, Egypt",2022-12-23,1,0
+"Cairo, Egypt",2022-12-24,1,0
+"Cairo, Egypt",2022-12-25,1,0
+"Cairo, Egypt",2022-12-26,1,0
+"Cairo, Egypt",2022-12-27,1,0
+"Cairo, Egypt",2022-12-28,1,0
+"Cairo, Egypt",2022-12-29,1,0
+"Cairo, Egypt",2022-12-30,1,0
+"Cairo, Egypt",2022-12-31,1,0
+"Cape Town, South Africa",2022-12-04,0,1
+"Cape Town, South Africa",2022-12-05,0,1
+"Cape Town, South Africa",2022-12-06,0,1
+"Cape Town, South Africa",2022-12-07,0,1
+"Cape Town, South Africa",2022-12-08,0,1
+"Cape Town, South Africa",2022-12-09,0,1
+"Cape Town, South Africa",2022-12-10,0,1
+"Cape Town, South Africa",2022-12-11,0,1
+"Cape Town, South Africa",2022-12-12,0,1
+"Cape Town, South Africa",2022-12-13,0,1
+"Cape Town, South Africa",2022-12-14,0,1
+"Cape Town, South Africa",2022-12-15,0,1
+"Cape Town, South Africa",2022-12-16,0,1
+"Cape Town, South Africa",2022-12-17,0,1
+"Cape Town, South Africa",2022-12-18,0,1
+"Cape Town, South Africa",2022-12-19,0,1
+"Cape Town, South Africa",2022-12-20,0,1
+"Cape Town, South Africa",2022-12-21,0,1
+"Cape Town, South Africa",2022-12-22,0,1
+"Cape Town, South Africa",2022-12-23,0,1
+"Cape Town, South Africa",2022-12-24,0,1
+"Cape Town, South Africa",2022-12-25,0,1
+"Cape Town, South Africa",2022-12-26,0,1
+"Cape Town, South Africa",2022-12-27,0,1
+"Cape Town, South Africa",2022-12-28,0,1
+"Cape Town, South Africa",2022-12-29,0,1
+"Cape Town, South Africa",2022-12-30,0,1
+"Cape Town, South Africa",2022-12-31,0,1
+"Dubai, United Arab Emirates",2022-12-04,1,0
+"Dubai, United Arab Emirates",2022-12-05,1,0
+"Dubai, United Arab Emirates",2022-12-06,1,0
+"Dubai, United Arab Emirates",2022-12-07,1,0
+"Dubai, United Arab Emirates",2022-12-08,1,0
+"Dubai, United Arab Emirates",2022-12-09,1,0
+"Dubai, United Arab Emirates",2022-12-10,1,0
+"Dubai, United Arab Emirates",2022-12-11,1,0
+"Dubai, United Arab Emirates",2022-12-12,1,0
+"Dubai, United Arab Emirates",2022-12-13,1,0
+"Dubai, United Arab Emirates",2022-12-14,1,0
+"Dubai, United Arab Emirates",2022-12-15,1,0
+"Dubai, United Arab Emirates",2022-12-16,1,0
+"Dubai, United Arab Emirates",2022-12-17,1,0
+"Dubai, United Arab Emirates",2022-12-18,1,0
+"Dubai, United Arab Emirates",2022-12-19,1,0
+"Dubai, United Arab Emirates",2022-12-20,1,0
+"Dubai, United Arab Emirates",2022-12-21,1,0
+"Dubai, United Arab Emirates",2022-12-22,1,0
+"Dubai, United Arab Emirates",2022-12-23,1,0
+"Dubai, United Arab Emirates",2022-12-24,1,0
+"Dubai, United Arab Emirates",2022-12-25,1,0
+"Dubai, United Arab Emirates",2022-12-26,1,0
+"Dubai, United Arab Emirates",2022-12-27,1,0
+"Dubai, United Arab Emirates",2022-12-28,1,0
+"Dubai, United Arab Emirates",2022-12-29,1,0
+"Dubai, United Arab Emirates",2022-12-30,1,0
+"Dubai, United Arab Emirates",2022-12-31,1,0
+"Lagos, Nigeria",2022-12-04,1,0
+"Lagos, Nigeria",2022-12-05,1,0
+"Lagos, Nigeria",2022-12-06,1,0
+"Lagos, Nigeria",2022-12-07,1,0
+"Lagos, Nigeria",2022-12-08,1,0
+"Lagos, Nigeria",2022-12-09,1,0
+"Lagos, Nigeria",2022-12-10,1,0
+"Lagos, Nigeria",2022-12-11,1,0
+"Lagos, Nigeria",2022-12-12,1,0
+"Lagos, Nigeria",2022-12-13,1,0
+"Lagos, Nigeria",2022-12-14,1,0
+"Lagos, Nigeria",2022-12-15,1,0
+"Lagos, Nigeria",2022-12-16,1,0
+"Lagos, Nigeria",2022-12-17,1,0
+"Lagos, Nigeria",2022-12-18,1,0
+"Lagos, Nigeria",2022-12-19,1,0
+"Lagos, Nigeria",2022-12-20,1,0
+"Lagos, Nigeria",2022-12-21,1,0
+"Lagos, Nigeria",2022-12-22,1,0
+"Lagos, Nigeria",2022-12-23,1,0
+"Lagos, Nigeria",2022-12-24,1,0
+"Lagos, Nigeria",2022-12-25,1,0
+"Lagos, Nigeria",2022-12-26,1,0
+"Lagos, Nigeria",2022-12-27,1,0
+"Lagos, Nigeria",2022-12-28,1,0
+"Lagos, Nigeria",2022-12-29,1,0
+"Lagos, Nigeria",2022-12-30,1,0
+"Lagos, Nigeria",2022-12-31,1,0
+"Lima, Peru",2022-12-04,0,1
+"Lima, Peru",2022-12-05,0,1
+"Lima, Peru",2022-12-06,0,1
+"Lima, Peru",2022-12-07,0,1
+"Lima, Peru",2022-12-08,0,1
+"Lima, Peru",2022-12-09,0,1
+"Lima, Peru",2022-12-10,0,1
+"Lima, Peru",2022-12-11,0,1
+"Lima, Peru",2022-12-12,0,1
+"Lima, Peru",2022-12-13,0,1
+"Lima, Peru",2022-12-14,0,1
+"Lima, Peru",2022-12-15,0,1
+"Lima, Peru",2022-12-16,0,1
+"Lima, Peru",2022-12-17,0,1
+"Lima, Peru",2022-12-18,0,1
+"Lima, Peru",2022-12-19,0,1
+"Lima, Peru",2022-12-20,0,1
+"Lima, Peru",2022-12-21,0,1
+"Lima, Peru",2022-12-22,0,1
+"Lima, Peru",2022-12-23,0,1
+"Lima, Peru",2022-12-24,0,1
+"Lima, Peru",2022-12-25,0,1
+"Lima, Peru",2022-12-26,0,1
+"Lima, Peru",2022-12-27,0,1
+"Lima, Peru",2022-12-28,0,1
+"Lima, Peru",2022-12-29,0,1
+"Lima, Peru",2022-12-30,0,1
+"Lima, Peru",2022-12-31,0,1
+"London, United Kingdom",2022-12-04,1,0
+"London, United Kingdom",2022-12-05,1,0
+"London, United Kingdom",2022-12-06,1,0
+"London, United Kingdom",2022-12-07,1,0
+"London, United Kingdom",2022-12-08,1,0
+"London, United Kingdom",2022-12-09,1,0
+"London, United Kingdom",2022-12-10,1,0
+"London, United Kingdom",2022-12-11,1,0
+"London, United Kingdom",2022-12-12,1,0
+"London, United Kingdom",2022-12-13,1,0
+"London, United Kingdom",2022-12-14,1,0
+"London, United Kingdom",2022-12-15,1,0
+"London, United Kingdom",2022-12-16,1,0
+"London, United Kingdom",2022-12-17,1,0
+"London, United Kingdom",2022-12-18,1,0
+"London, United Kingdom",2022-12-19,1,0
+"London, United Kingdom",2022-12-20,1,0
+"London, United Kingdom",2022-12-21,1,0
+"London, United Kingdom",2022-12-22,1,0
+"London, United Kingdom",2022-12-23,1,0
+"London, United Kingdom",2022-12-24,1,0
+"London, United Kingdom",2022-12-25,1,0
+"London, United Kingdom",2022-12-26,1,0
+"London, United Kingdom",2022-12-27,1,0
+"London, United Kingdom",2022-12-28,1,0
+"London, United Kingdom",2022-12-29,1,0
+"London, United Kingdom",2022-12-30,1,0
+"London, United Kingdom",2022-12-31,1,0
+"Los Angeles, United States of America",2022-12-04,1,0
+"Los Angeles, United States of America",2022-12-05,1,0
+"Los Angeles, United States of America",2022-12-06,1,0
+"Los Angeles, United States of America",2022-12-07,1,0
+"Los Angeles, United States of America",2022-12-08,1,0
+"Los Angeles, United States of America",2022-12-09,1,0
+"Los Angeles, United States of America",2022-12-10,1,0
+"Los Angeles, United States of America",2022-12-11,1,0
+"Los Angeles, United States of America",2022-12-12,1,0
+"Los Angeles, United States of America",2022-12-13,1,0
+"Los Angeles, United States of America",2022-12-14,1,0
+"Los Angeles, United States of America",2022-12-15,1,0
+"Los Angeles, United States of America",2022-12-16,1,0
+"Los Angeles, United States of America",2022-12-17,1,0
+"Los Angeles, United States of America",2022-12-18,1,0
+"Los Angeles, United States of America",2022-12-19,1,0
+"Los Angeles, United States of America",2022-12-20,1,0
+"Los Angeles, United States of America",2022-12-21,1,0
+"Los Angeles, United States of America",2022-12-22,1,0
+"Los Angeles, United States of America",2022-12-23,1,0
+"Los Angeles, United States of America",2022-12-24,1,0
+"Los Angeles, United States of America",2022-12-25,1,0
+"Los Angeles, United States of America",2022-12-26,1,0
+"Los Angeles, United States of America",2022-12-27,1,0
+"Los Angeles, United States of America",2022-12-28,1,0
+"Los Angeles, United States of America",2022-12-29,1,0
+"Los Angeles, United States of America",2022-12-30,1,0
+"Los Angeles, United States of America",2022-12-31,1,0
+"Marrakesh, Morocco",2022-12-04,1,0
+"Marrakesh, Morocco",2022-12-05,1,0
+"Marrakesh, Morocco",2022-12-06,1,0
+"Marrakesh, Morocco",2022-12-07,1,0
+"Marrakesh, Morocco",2022-12-08,1,0
+"Marrakesh, Morocco",2022-12-09,1,0
+"Marrakesh, Morocco",2022-12-10,1,0
+"Marrakesh, Morocco",2022-12-11,1,0
+"Marrakesh, Morocco",2022-12-12,1,0
+"Marrakesh, Morocco",2022-12-13,1,0
+"Marrakesh, Morocco",2022-12-14,1,0
+"Marrakesh, Morocco",2022-12-15,1,0
+"Marrakesh, Morocco",2022-12-16,1,0
+"Marrakesh, Morocco",2022-12-17,1,0
+"Marrakesh, Morocco",2022-12-18,1,0
+"Marrakesh, Morocco",2022-12-19,1,0
+"Marrakesh, Morocco",2022-12-20,1,0
+"Marrakesh, Morocco",2022-12-21,1,0
+"Marrakesh, Morocco",2022-12-22,1,0
+"Marrakesh, Morocco",2022-12-23,1,0
+"Marrakesh, Morocco",2022-12-24,1,0
+"Marrakesh, Morocco",2022-12-25,1,0
+"Marrakesh, Morocco",2022-12-26,1,0
+"Marrakesh, Morocco",2022-12-27,1,0
+"Marrakesh, Morocco",2022-12-28,1,0
+"Marrakesh, Morocco",2022-12-29,1,0
+"Marrakesh, Morocco",2022-12-30,1,0
+"Marrakesh, Morocco",2022-12-31,1,0
+"Mexico City, Mexico",2022-12-04,1,0
+"Mexico City, Mexico",2022-12-05,1,0
+"Mexico City, Mexico",2022-12-06,1,0
+"Mexico City, Mexico",2022-12-07,1,0
+"Mexico City, Mexico",2022-12-08,1,0
+"Mexico City, Mexico",2022-12-09,1,0
+"Mexico City, Mexico",2022-12-10,1,0
+"Mexico City, Mexico",2022-12-11,1,0
+"Mexico City, Mexico",2022-12-12,1,0
+"Mexico City, Mexico",2022-12-13,1,0
+"Mexico City, Mexico",2022-12-14,1,0
+"Mexico City, Mexico",2022-12-15,1,0
+"Mexico City, Mexico",2022-12-16,1,0
+"Mexico City, Mexico",2022-12-17,1,0
+"Mexico City, Mexico",2022-12-18,1,0
+"Mexico City, Mexico",2022-12-19,1,0
+"Mexico City, Mexico",2022-12-20,1,0
+"Mexico City, Mexico",2022-12-21,1,0
+"Mexico City, Mexico",2022-12-22,1,0
+"Mexico City, Mexico",2022-12-23,1,0
+"Mexico City, Mexico",2022-12-24,1,0
+"Mexico City, Mexico",2022-12-25,1,0
+"Mexico City, Mexico",2022-12-26,1,0
+"Mexico City, Mexico",2022-12-27,1,0
+"Mexico City, Mexico",2022-12-28,1,0
+"Mexico City, Mexico",2022-12-29,1,0
+"Mexico City, Mexico",2022-12-30,1,0
+"Mexico City, Mexico",2022-12-31,1,0
+"Mumbai, India",2022-12-04,1,0
+"Mumbai, India",2022-12-05,1,0
+"Mumbai, India",2022-12-06,1,0
+"Mumbai, India",2022-12-07,1,0
+"Mumbai, India",2022-12-08,1,0
+"Mumbai, India",2022-12-09,1,0
+"Mumbai, India",2022-12-10,1,0
+"Mumbai, India",2022-12-11,1,0
+"Mumbai, India",2022-12-12,1,0
+"Mumbai, India",2022-12-13,1,0
+"Mumbai, India",2022-12-14,1,0
+"Mumbai, India",2022-12-15,1,0
+"Mumbai, India",2022-12-16,1,0
+"Mumbai, India",2022-12-17,1,0
+"Mumbai, India",2022-12-18,1,0
+"Mumbai, India",2022-12-19,1,0
+"Mumbai, India",2022-12-20,1,0
+"Mumbai, India",2022-12-21,1,0
+"Mumbai, India",2022-12-22,1,0
+"Mumbai, India",2022-12-23,1,0
+"Mumbai, India",2022-12-24,1,0
+"Mumbai, India",2022-12-25,1,0
+"Mumbai, India",2022-12-26,1,0
+"Mumbai, India",2022-12-27,1,0
+"Mumbai, India",2022-12-28,1,0
+"Mumbai, India",2022-12-29,1,0
+"Mumbai, India",2022-12-30,1,0
+"Mumbai, India",2022-12-31,1,0
+"Nairobi, Kenya",2022-12-04,0,1
+"Nairobi, Kenya",2022-12-05,0,1
+"Nairobi, Kenya",2022-12-06,0,1
+"Nairobi, Kenya",2022-12-07,0,1
+"Nairobi, Kenya",2022-12-08,0,1
+"Nairobi, Kenya",2022-12-09,0,1
+"Nairobi, Kenya",2022-12-10,0,1
+"Nairobi, Kenya",2022-12-11,0,1
+"Nairobi, Kenya",2022-12-12,0,1
+"Nairobi, Kenya",2022-12-13,0,1
+"Nairobi, Kenya",2022-12-14,0,1
+"Nairobi, Kenya",2022-12-15,0,1
+"Nairobi, Kenya",2022-12-16,0,1
+"Nairobi, Kenya",2022-12-17,0,1
+"Nairobi, Kenya",2022-12-18,0,1
+"Nairobi, Kenya",2022-12-19,0,1
+"Nairobi, Kenya",2022-12-20,0,1
+"Nairobi, Kenya",2022-12-21,0,1
+"Nairobi, Kenya",2022-12-22,0,1
+"Nairobi, Kenya",2022-12-23,0,1
+"Nairobi, Kenya",2022-12-24,0,1
+"Nairobi, Kenya",2022-12-25,0,1
+"Nairobi, Kenya",2022-12-26,0,1
+"Nairobi, Kenya",2022-12-27,0,1
+"Nairobi, Kenya",2022-12-28,0,1
+"Nairobi, Kenya",2022-12-29,0,1
+"Nairobi, Kenya",2022-12-30,0,1
+"Nairobi, Kenya",2022-12-31,0,1
+"New York City, United States of America",2022-12-04,1,0
+"New York City, United States of America",2022-12-05,1,0
+"New York City, United States of America",2022-12-06,1,0
+"New York City, United States of America",2022-12-07,1,0
+"New York City, United States of America",2022-12-08,1,0
+"New York City, United States of America",2022-12-09,1,0
+"New York City, United States of America",2022-12-10,1,0
+"New York City, United States of America",2022-12-11,1,0
+"New York City, United States of America",2022-12-12,1,0
+"New York City, United States of America",2022-12-13,1,0
+"New York City, United States of America",2022-12-14,1,0
+"New York City, United States of America",2022-12-15,1,0
+"New York City, United States of America",2022-12-16,1,0
+"New York City, United States of America",2022-12-17,1,0
+"New York City, United States of America",2022-12-18,1,0
+"New York City, United States of America",2022-12-19,1,0
+"New York City, United States of America",2022-12-20,1,0
+"New York City, United States of America",2022-12-21,1,0
+"New York City, United States of America",2022-12-22,1,0
+"New York City, United States of America",2022-12-23,1,0
+"New York City, United States of America",2022-12-24,1,0
+"New York City, United States of America",2022-12-25,1,0
+"New York City, United States of America",2022-12-26,1,0
+"New York City, United States of America",2022-12-27,1,0
+"New York City, United States of America",2022-12-28,1,0
+"New York City, United States of America",2022-12-29,1,0
+"New York City, United States of America",2022-12-30,1,0
+"New York City, United States of America",2022-12-31,1,0
+"Paris, France",2022-12-04,1,0
+"Paris, France",2022-12-05,1,0
+"Paris, France",2022-12-06,1,0
+"Paris, France",2022-12-07,1,0
+"Paris, France",2022-12-08,1,0
+"Paris, France",2022-12-09,1,0
+"Paris, France",2022-12-10,1,0
+"Paris, France",2022-12-11,1,0
+"Paris, France",2022-12-12,1,0
+"Paris, France",2022-12-13,1,0
+"Paris, France",2022-12-14,1,0
+"Paris, France",2022-12-15,1,0
+"Paris, France",2022-12-16,1,0
+"Paris, France",2022-12-17,1,0
+"Paris, France",2022-12-18,1,0
+"Paris, France",2022-12-19,1,0
+"Paris, France",2022-12-20,1,0
+"Paris, France",2022-12-21,1,0
+"Paris, France",2022-12-22,1,0
+"Paris, France",2022-12-23,1,0
+"Paris, France",2022-12-24,1,0
+"Paris, France",2022-12-25,1,0
+"Paris, France",2022-12-26,1,0
+"Paris, France",2022-12-27,1,0
+"Paris, France",2022-12-28,1,0
+"Paris, France",2022-12-29,1,0
+"Paris, France",2022-12-30,1,0
+"Paris, France",2022-12-31,1,0
+"Rio De Janeiro, Brazil",2022-12-04,0,1
+"Rio De Janeiro, Brazil",2022-12-05,0,1
+"Rio De Janeiro, Brazil",2022-12-06,0,1
+"Rio De Janeiro, Brazil",2022-12-07,0,1
+"Rio De Janeiro, Brazil",2022-12-08,0,1
+"Rio De Janeiro, Brazil",2022-12-09,0,1
+"Rio De Janeiro, Brazil",2022-12-10,0,1
+"Rio De Janeiro, Brazil",2022-12-11,0,1
+"Rio De Janeiro, Brazil",2022-12-12,0,1
+"Rio De Janeiro, Brazil",2022-12-13,0,1
+"Rio De Janeiro, Brazil",2022-12-14,0,1
+"Rio De Janeiro, Brazil",2022-12-15,0,1
+"Rio De Janeiro, Brazil",2022-12-16,0,1
+"Rio De Janeiro, Brazil",2022-12-17,0,1
+"Rio De Janeiro, Brazil",2022-12-18,0,1
+"Rio De Janeiro, Brazil",2022-12-19,0,1
+"Rio De Janeiro, Brazil",2022-12-20,0,1
+"Rio De Janeiro, Brazil",2022-12-21,0,1
+"Rio De Janeiro, Brazil",2022-12-22,0,1
+"Rio De Janeiro, Brazil",2022-12-23,0,1
+"Rio De Janeiro, Brazil",2022-12-24,0,1
+"Rio De Janeiro, Brazil",2022-12-25,0,1
+"Rio De Janeiro, Brazil",2022-12-26,0,1
+"Rio De Janeiro, Brazil",2022-12-27,0,1
+"Rio De Janeiro, Brazil",2022-12-28,0,1
+"Rio De Janeiro, Brazil",2022-12-29,0,1
+"Rio De Janeiro, Brazil",2022-12-30,0,1
+"Rio De Janeiro, Brazil",2022-12-31,0,1
+"Rome, Italy",2022-12-04,1,0
+"Rome, Italy",2022-12-05,1,0
+"Rome, Italy",2022-12-06,1,0
+"Rome, Italy",2022-12-07,1,0
+"Rome, Italy",2022-12-08,1,0
+"Rome, Italy",2022-12-09,1,0
+"Rome, Italy",2022-12-10,1,0
+"Rome, Italy",2022-12-11,1,0
+"Rome, Italy",2022-12-12,1,0
+"Rome, Italy",2022-12-13,1,0
+"Rome, Italy",2022-12-14,1,0
+"Rome, Italy",2022-12-15,1,0
+"Rome, Italy",2022-12-16,1,0
+"Rome, Italy",2022-12-17,1,0
+"Rome, Italy",2022-12-18,1,0
+"Rome, Italy",2022-12-19,1,0
+"Rome, Italy",2022-12-20,1,0
+"Rome, Italy",2022-12-21,1,0
+"Rome, Italy",2022-12-22,1,0
+"Rome, Italy",2022-12-23,1,0
+"Rome, Italy",2022-12-24,1,0
+"Rome, Italy",2022-12-25,1,0
+"Rome, Italy",2022-12-26,1,0
+"Rome, Italy",2022-12-27,1,0
+"Rome, Italy",2022-12-28,1,0
+"Rome, Italy",2022-12-29,1,0
+"Rome, Italy",2022-12-30,1,0
+"Rome, Italy",2022-12-31,1,0
+"Santiago, Chile",2022-12-04,0,1
+"Santiago, Chile",2022-12-05,0,1
+"Santiago, Chile",2022-12-06,0,1
+"Santiago, Chile",2022-12-07,0,1
+"Santiago, Chile",2022-12-08,0,1
+"Santiago, Chile",2022-12-09,0,1
+"Santiago, Chile",2022-12-10,0,1
+"Santiago, Chile",2022-12-11,0,1
+"Santiago, Chile",2022-12-12,0,1
+"Santiago, Chile",2022-12-13,0,1
+"Santiago, Chile",2022-12-14,0,1
+"Santiago, Chile",2022-12-15,0,1
+"Santiago, Chile",2022-12-16,0,1
+"Santiago, Chile",2022-12-17,0,1
+"Santiago, Chile",2022-12-18,0,1
+"Santiago, Chile",2022-12-19,0,1
+"Santiago, Chile",2022-12-20,0,1
+"Santiago, Chile",2022-12-21,0,1
+"Santiago, Chile",2022-12-22,0,1
+"Santiago, Chile",2022-12-23,0,1
+"Santiago, Chile",2022-12-24,0,1
+"Santiago, Chile",2022-12-25,0,1
+"Santiago, Chile",2022-12-26,0,1
+"Santiago, Chile",2022-12-27,0,1
+"Santiago, Chile",2022-12-28,0,1
+"Santiago, Chile",2022-12-29,0,1
+"Santiago, Chile",2022-12-30,0,1
+"Santiago, Chile",2022-12-31,0,1
+"Sydney, Australia",2022-12-04,0,1
+"Sydney, Australia",2022-12-05,0,1
+"Sydney, Australia",2022-12-06,0,1
+"Sydney, Australia",2022-12-07,0,1
+"Sydney, Australia",2022-12-08,0,1
+"Sydney, Australia",2022-12-09,0,1
+"Sydney, Australia",2022-12-10,0,1
+"Sydney, Australia",2022-12-11,0,1
+"Sydney, Australia",2022-12-12,0,1
+"Sydney, Australia",2022-12-13,0,1
+"Sydney, Australia",2022-12-14,0,1
+"Sydney, Australia",2022-12-15,0,1
+"Sydney, Australia",2022-12-16,0,1
+"Sydney, Australia",2022-12-17,0,1
+"Sydney, Australia",2022-12-18,0,1
+"Sydney, Australia",2022-12-19,0,1
+"Sydney, Australia",2022-12-20,0,1
+"Sydney, Australia",2022-12-21,0,1
+"Sydney, Australia",2022-12-22,0,1
+"Sydney, Australia",2022-12-23,0,1
+"Sydney, Australia",2022-12-24,0,1
+"Sydney, Australia",2022-12-25,0,1
+"Sydney, Australia",2022-12-26,0,1
+"Sydney, Australia",2022-12-27,0,1
+"Sydney, Australia",2022-12-28,0,1
+"Sydney, Australia",2022-12-29,0,1
+"Sydney, Australia",2022-12-30,0,1
+"Sydney, Australia",2022-12-31,0,1
+"Tokyo, Japan",2022-12-04,1,0
+"Tokyo, Japan",2022-12-05,1,0
+"Tokyo, Japan",2022-12-06,1,0
+"Tokyo, Japan",2022-12-07,1,0
+"Tokyo, Japan",2022-12-08,1,0
+"Tokyo, Japan",2022-12-09,1,0
+"Tokyo, Japan",2022-12-10,1,0
+"Tokyo, Japan",2022-12-11,1,0
+"Tokyo, Japan",2022-12-12,1,0
+"Tokyo, Japan",2022-12-13,1,0
+"Tokyo, Japan",2022-12-14,1,0
+"Tokyo, Japan",2022-12-15,1,0
+"Tokyo, Japan",2022-12-16,1,0
+"Tokyo, Japan",2022-12-17,1,0
+"Tokyo, Japan",2022-12-18,1,0
+"Tokyo, Japan",2022-12-19,1,0
+"Tokyo, Japan",2022-12-20,1,0
+"Tokyo, Japan",2022-12-21,1,0
+"Tokyo, Japan",2022-12-22,1,0
+"Tokyo, Japan",2022-12-23,1,0
+"Tokyo, Japan",2022-12-24,1,0
+"Tokyo, Japan",2022-12-25,1,0
+"Tokyo, Japan",2022-12-26,1,0
+"Tokyo, Japan",2022-12-27,1,0
+"Tokyo, Japan",2022-12-28,1,0
+"Tokyo, Japan",2022-12-29,1,0
+"Tokyo, Japan",2022-12-30,1,0
+"Tokyo, Japan",2022-12-31,1,0
+"Toronto, Canada",2022-12-04,1,0
+"Toronto, Canada",2022-12-05,1,0
+"Toronto, Canada",2022-12-06,1,0
+"Toronto, Canada",2022-12-07,1,0
+"Toronto, Canada",2022-12-08,1,0
+"Toronto, Canada",2022-12-09,1,0
+"Toronto, Canada",2022-12-10,1,0
+"Toronto, Canada",2022-12-11,1,0
+"Toronto, Canada",2022-12-12,1,0
+"Toronto, Canada",2022-12-13,1,0
+"Toronto, Canada",2022-12-14,1,0
+"Toronto, Canada",2022-12-15,1,0
+"Toronto, Canada",2022-12-16,1,0
+"Toronto, Canada",2022-12-17,1,0
+"Toronto, Canada",2022-12-18,1,0
+"Toronto, Canada",2022-12-19,1,0
+"Toronto, Canada",2022-12-20,1,0
+"Toronto, Canada",2022-12-21,1,0
+"Toronto, Canada",2022-12-22,1,0
+"Toronto, Canada",2022-12-23,1,0
+"Toronto, Canada",2022-12-24,1,0
+"Toronto, Canada",2022-12-25,1,0
+"Toronto, Canada",2022-12-26,1,0
+"Toronto, Canada",2022-12-27,1,0
+"Toronto, Canada",2022-12-28,1,0
+"Toronto, Canada",2022-12-29,1,0
+"Toronto, Canada",2022-12-30,1,0
+"Toronto, Canada",2022-12-31,1,0
+"Vancouver, Canada",2022-12-04,1,0
+"Vancouver, Canada",2022-12-05,1,0
+"Vancouver, Canada",2022-12-06,1,0
+"Vancouver, Canada",2022-12-07,1,0
+"Vancouver, Canada",2022-12-08,1,0
+"Vancouver, Canada",2022-12-09,1,0
+"Vancouver, Canada",2022-12-10,1,0
+"Vancouver, Canada",2022-12-11,1,0
+"Vancouver, Canada",2022-12-12,1,0
+"Vancouver, Canada",2022-12-13,1,0
+"Vancouver, Canada",2022-12-14,1,0
+"Vancouver, Canada",2022-12-15,1,0
+"Vancouver, Canada",2022-12-16,1,0
+"Vancouver, Canada",2022-12-17,1,0
+"Vancouver, Canada",2022-12-18,1,0
+"Vancouver, Canada",2022-12-19,1,0
+"Vancouver, Canada",2022-12-20,1,0
+"Vancouver, Canada",2022-12-21,1,0
+"Vancouver, Canada",2022-12-22,1,0
+"Vancouver, Canada",2022-12-23,1,0
+"Vancouver, Canada",2022-12-24,1,0
+"Vancouver, Canada",2022-12-25,1,0
+"Vancouver, Canada",2022-12-26,1,0
+"Vancouver, Canada",2022-12-27,1,0
+"Vancouver, Canada",2022-12-28,1,0
+"Vancouver, Canada",2022-12-29,1,0
+"Vancouver, Canada",2022-12-30,1,0
+"Vancouver, Canada",2022-12-31,1,0

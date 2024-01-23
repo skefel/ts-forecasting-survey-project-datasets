@@ -1,0 +1,29 @@
+{
+  "title": "Australian Beer Production - 75 Percent",
+  "description": "This is a variation of the Australian Beer Productiondataset. In this variation, 75% of the latest epochs from the original timeseries are retained. QUARTERLY",
+  "modelCategory": "forecasting",
+  "schemaVersion": 1.0,
+  "inputDataFormat": "CSV",
+  "encoding": "utf-8",
+  "frequency": "QUARTERLY",
+  "forecastLength": 12,
+  "idField": {
+    "name": "Series",
+    "description": "Unique Id assigned to the data series"
+  },
+  "timeField": {
+    "name": "Quarter",
+    "description": "Date representing the quarterly of the data",
+    "dataType": "DATE",
+    "example": "1969-07-01"
+  },
+  "forecastTarget": {
+    "name": "Beer",
+    "description": "Target variable - beer production in megaliters",
+    "dataType": "NUMERIC",
+    "example": 361
+  },
+  "pastCovariates": [],
+  "futureCovariates": [],
+  "staticCovariates": []
+}

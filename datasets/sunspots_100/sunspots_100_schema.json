@@ -1,0 +1,29 @@
+{
+  "title": "Sunspots - 100 Percent",
+  "description": "Sunspots - 100 Percent",
+  "modelCategory": "forecasting",
+  "schemaVersion": 1.0,
+  "inputDataFormat": "CSV",
+  "encoding": "utf-8",
+  "frequency": "MONTHLY",
+  "forecastLength": 24,
+  "idField": {
+    "name": "Series",
+    "description": "Unique identifier marking the single series in this dataset"
+  },
+  "timeField": {
+    "name": "Month",
+    "description": "Month of the observation",
+    "dataType": "DATE",
+    "example": "1749-01-01"
+  },
+  "forecastTarget": {
+    "name": "Sunspots",
+    "description": "Number of sunspots. Sunspots are temporary phenomena on the Sun's photosphere that appear as spots darker than the surrounding areas. ",
+    "dataType": "NUMERIC",
+    "example": 58.0
+  },
+  "pastCovariates": [],
+  "futureCovariates": [],
+  "staticCovariates": []
+}

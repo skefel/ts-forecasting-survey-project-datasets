@@ -1,0 +1,29 @@
+{
+  "title": "M4 Forecasting Competition Sampled Yearly Series - 50 Percent",
+  "description": "This is a variation of the M4 Forecasting Competition Sampled Yearly Seriesdataset. In this variation, 50% of the latest epochs from the original timeseries are retained. This dataset comprises 100 yearly time series, each spanning 46 years from 1970 to 2015, meticulously sampled from the M4 forecasting competition. These series provide a consistent historical window and are ideal for exploring long-term trends and forecasting challenges across various sectors.",
+  "modelCategory": "forecasting",
+  "schemaVersion": 1.0,
+  "inputDataFormat": "CSV",
+  "encoding": "utf-8",
+  "frequency": "YEARLY",
+  "forecastLength": 6,
+  "idField": {
+    "name": "series",
+    "description": "Unique idenfier for the series"
+  },
+  "timeField": {
+    "name": "year",
+    "description": "Year of the sample for the series",
+    "dataType": "DATE",
+    "example": "1993-01-01"
+  },
+  "forecastTarget": {
+    "name": "value",
+    "description": "Target variable for forecasting.",
+    "dataType": "NUMERIC",
+    "example": 3927.88
+  },
+  "pastCovariates": [],
+  "futureCovariates": [],
+  "staticCovariates": []
+}

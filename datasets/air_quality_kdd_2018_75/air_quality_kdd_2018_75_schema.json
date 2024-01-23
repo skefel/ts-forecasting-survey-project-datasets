@@ -1,0 +1,60 @@
+{
+  "title": "Air Quality KDD 2018 - 75 Percent",
+  "description": "This is a variation of the Air Quality KDD 2018dataset. In this variation, 75% of the latest epochs from the original timeseries are retained. HOURLY",
+  "modelCategory": "forecasting",
+  "schemaVersion": 1.0,
+  "inputDataFormat": "CSV",
+  "encoding": "utf-8",
+  "frequency": "HOURLY",
+  "forecastLength": 120,
+  "idField": {
+    "name": "station",
+    "description": "Station id in city"
+  },
+  "timeField": {
+    "name": "timestamp",
+    "description": "Hour of measurement",
+    "dataType": "DATETIME",
+    "example": "2017-04-25 02:00:00"
+  },
+  "forecastTarget": {
+    "name": "PM2.5",
+    "description": "Air quality metric: PM2.5 - particles that are 2.5 microns or less in diameter (\u00b5g/m\u00b3)",
+    "dataType": "NUMERIC",
+    "example": 3.0
+  },
+  "pastCovariates": [
+    {
+      "name": "PM10",
+      "description": "Air quality metric: PM10 - particles that are 10 microns or less in diameter (\u00b5g/m\u00b3)",
+      "dataType": "NUMERIC",
+      "example": 22.0
+    },
+    {
+      "name": "NO2",
+      "description": "Air quality metric: PM10 - nitrogen dioxide (\u00b5g/m\u00b3)",
+      "dataType": "NUMERIC",
+      "example": 21.0
+    },
+    {
+      "name": "CO",
+      "description": "Air quality metric: CO -carbon monoxide (\u00b5g/m\u00b3)",
+      "dataType": "NUMERIC",
+      "example": 0.2
+    },
+    {
+      "name": "O3",
+      "description": "Air quality metric: O3 - ozone (\u00b5g/m\u00b3)",
+      "dataType": "NUMERIC",
+      "example": 54.0
+    },
+    {
+      "name": "SO2",
+      "description": "Air quality metric: SO2 - sulphur dioxide (\u00b5g/m\u00b3)",
+      "dataType": "NUMERIC",
+      "example": 3.0
+    }
+  ],
+  "futureCovariates": [],
+  "staticCovariates": []
+}

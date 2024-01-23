@@ -1,0 +1,29 @@
+{
+  "title": "Airline Passengers - 100 Percent",
+  "description": "Airline Passengers - 100 Percent",
+  "modelCategory": "forecasting",
+  "schemaVersion": 1.0,
+  "inputDataFormat": "CSV",
+  "encoding": "utf-8",
+  "frequency": "MONTHLY",
+  "forecastLength": 24,
+  "idField": {
+    "name": "SeriesId",
+    "description": "Unique identifier added to this dataset"
+  },
+  "timeField": {
+    "name": "Month",
+    "description": "Date representing month and year of the sample.",
+    "dataType": "DATE",
+    "example": "1949-01-01"
+  },
+  "forecastTarget": {
+    "name": "#Passengers",
+    "description": "Total number of airline passengers in thousands.",
+    "dataType": "NUMERIC",
+    "example": 112
+  },
+  "pastCovariates": [],
+  "futureCovariates": [],
+  "staticCovariates": []
+}

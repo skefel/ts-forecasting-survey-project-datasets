@@ -1,0 +1,29 @@
+{
+  "title": "M4 Forecasting Competition Sampled Yearly Series - 100 Percent",
+  "description": "M4 Forecasting Competition Sampled Yearly Series - 100 Percent",
+  "modelCategory": "forecasting",
+  "schemaVersion": 1.0,
+  "inputDataFormat": "CSV",
+  "encoding": "utf-8",
+  "frequency": "YEARLY",
+  "forecastLength": 6,
+  "idField": {
+    "name": "series",
+    "description": "Unique idenfier for the series"
+  },
+  "timeField": {
+    "name": "year",
+    "description": "Year of the sample for the series",
+    "dataType": "DATE",
+    "example": "1970-01-01"
+  },
+  "forecastTarget": {
+    "name": "value",
+    "description": "Target variable for forecasting.",
+    "dataType": "NUMERIC",
+    "example": 2874.87
+  },
+  "pastCovariates": [],
+  "futureCovariates": [],
+  "staticCovariates": []
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Australian Beer Production - 100 Percent",
+  "description": "Australian Beer Production - 100 Percent",
+  "modelCategory": "forecasting",
+  "schemaVersion": 1.0,
+  "inputDataFormat": "CSV",
+  "encoding": "utf-8",
+  "frequency": "QUARTERLY",
+  "forecastLength": 12,
+  "idField": {
+    "name": "Series",
+    "description": "Unique Id assigned to the data series"
+  },
+  "timeField": {
+    "name": "Quarter",
+    "description": "Date representing the quarterly of the data",
+    "dataType": "DATE",
+    "example": "1956-01-01"
+  },
+  "forecastTarget": {
+    "name": "Beer",
+    "description": "Target variable - beer production in megaliters",
+    "dataType": "NUMERIC",
+    "example": 284
+  },
+  "pastCovariates": [],
+  "futureCovariates": [],
+  "staticCovariates": []
+}
