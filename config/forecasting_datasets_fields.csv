@@ -10,9 +10,9 @@ forecasting,air_quality_kdd_2018_50,8,SO2,past_covariate,NUMERIC,Air quality met
 forecasting,airline_passengers_50,1,SeriesId,id,TEXT,Unique identifier added to this dataset
 forecasting,airline_passengers_50,2,Month,time,DATE,Date representing month and year of the sample.
 forecasting,airline_passengers_50,3,#Passengers,target,NUMERIC,Total number of airline passengers in thousands.
-forecasting,atmospheric_co2_concentrations_50,1,Indicator,id,TEXT,Unique identified attached to this series single series in this dataset. 
-forecasting,atmospheric_co2_concentrations_50,2,Date,time,DATE,Month of the observation
-forecasting,atmospheric_co2_concentrations_50,3,Value,target,NUMERIC,CO2 parts per million
+forecasting,co2_concentrations_50,1,Indicator,id,TEXT,Unique identified attached to this series single series in this dataset. 
+forecasting,co2_concentrations_50,2,Date,time,DATE,Month of the observation
+forecasting,co2_concentrations_50,3,Value,target,NUMERIC,CO2 parts per million
 forecasting,australian_beer_production_50,1,Series,id,TEXT,Unique Id assigned to the data series
 forecasting,australian_beer_production_50,2,Quarter,time,DATE,Date representing the quarterly of the data
 forecasting,australian_beer_production_50,3,Beer,target,NUMERIC,Target variable - beer production in megaliters
@@ -181,9 +181,9 @@ forecasting,air_quality_kdd_2018_75,8,SO2,past_covariate,NUMERIC,Air quality met
 forecasting,airline_passengers_75,1,SeriesId,id,TEXT,Unique identifier added to this dataset
 forecasting,airline_passengers_75,2,Month,time,DATE,Date representing month and year of the sample.
 forecasting,airline_passengers_75,3,#Passengers,target,NUMERIC,Total number of airline passengers in thousands.
-forecasting,atmospheric_co2_concentrations_75,1,Indicator,id,TEXT,Unique identified attached to this series single series in this dataset. 
-forecasting,atmospheric_co2_concentrations_75,2,Date,time,DATE,Month of the observation
-forecasting,atmospheric_co2_concentrations_75,3,Value,target,NUMERIC,CO2 parts per million
+forecasting,co2_concentrations_75,1,Indicator,id,TEXT,Unique identified attached to this series single series in this dataset. 
+forecasting,co2_concentrations_75,2,Date,time,DATE,Month of the observation
+forecasting,co2_concentrations_75,3,Value,target,NUMERIC,CO2 parts per million
 forecasting,australian_beer_production_75,1,Series,id,TEXT,Unique Id assigned to the data series
 forecasting,australian_beer_production_75,2,Quarter,time,DATE,Date representing the quarterly of the data
 forecasting,australian_beer_production_75,3,Beer,target,NUMERIC,Target variable - beer production in megaliters
@@ -352,9 +352,9 @@ forecasting,air_quality_kdd_2018_100,8,SO2,past_covariate,NUMERIC,Air quality me
 forecasting,airline_passengers_100,1,SeriesId,id,TEXT,Unique identifier added to this dataset
 forecasting,airline_passengers_100,2,Month,time,DATE,Date representing month and year of the sample.
 forecasting,airline_passengers_100,3,#Passengers,target,NUMERIC,Total number of airline passengers in thousands.
-forecasting,atmospheric_co2_concentrations_100,1,Indicator,id,TEXT,Unique identified attached to this series single series in this dataset. 
-forecasting,atmospheric_co2_concentrations_100,2,Date,time,DATE,Month of the observation
-forecasting,atmospheric_co2_concentrations_100,3,Value,target,NUMERIC,CO2 parts per million
+forecasting,co2_concentrations_100,1,Indicator,id,TEXT,Unique identified attached to this series single series in this dataset. 
+forecasting,co2_concentrations_100,2,Date,time,DATE,Month of the observation
+forecasting,co2_concentrations_100,3,Value,target,NUMERIC,CO2 parts per million
 forecasting,australian_beer_production_100,1,Series,id,TEXT,Unique Id assigned to the data series
 forecasting,australian_beer_production_100,2,Quarter,time,DATE,Date representing the quarterly of the data
 forecasting,australian_beer_production_100,3,Beer,target,NUMERIC,Target variable - beer production in megaliters
